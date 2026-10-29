@@ -35,7 +35,7 @@ void main() {
 
     expect(find.text('KampusKu'), findsOneWidget);
     expect(find.text('Pemrograman Mobile II'), findsOneWidget);
-    expect(find.text('Basis Data'), findsOneWidget);
+    expect(find.text('Keamanan Informasi'), findsOneWidget);
   });
 
   testWidgets('Target 1 - Android HP / Emulator screenshot', (
